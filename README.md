@@ -218,6 +218,6 @@ Save to CSV
 - Emphasis on clean code, modular design, and real-world simulation
 
 ---
-<p align="center"> ⭐ If you like this project, consider starring it! </p> ```
+<p align="center"> ⭐ If you like this project, consider starring it! </p>
 
 
