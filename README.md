@@ -7,15 +7,9 @@
 
 ---
 
-## 🚀 Overview
+## 🎯 System Overview
 
-A fully integrated **Library Management System** combining concepts from:
-
-- 🛒 Grocery Store Management  
-- 🎓 University Course Management  
-- 📖 Smart Library Project  
-
-> Focus: **real-world application of data structures + clean OOP design**
+This is a complete library automation solution that allows librarians and students to manage book collections, process borrowings, track history, and generate receipts. The system implements various data structures to optimize different operations - from fast book searches to maintaining borrowing history in chronological order.
 
 ---
 
