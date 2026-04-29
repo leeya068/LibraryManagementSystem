@@ -80,7 +80,7 @@ managers/
 
 </details>```
 
-
+```
 ## ⚙️ Data Structures Breakdown
 
 | Structure            | Purpose        | Complexity        |
