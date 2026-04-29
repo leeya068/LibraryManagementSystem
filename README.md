@@ -46,41 +46,29 @@ A fully integrated **Library Management System** combining concepts from:
 
 ## 🗂️ Project Structure
 
-```bash
+```
 LibraryManagementSystem/
-│
 ├── model/
+│ ├── LibraryItemADT.java
+│ ├── Book.java
+│ └── BorrowRecord.java
 ├── datastructures/
-├── managers/
+│ ├── BSTNode.java
+│ ├── BST.java
+│ ├── Stack.java
+│ ├── CartNode.java
+│ └── CartList.java
 ├── undo/
+│ └── UndoStack.java
+├── managers/
+│ ├── InventoryManager.java
+│ ├── BorrowingHistoryManager.java
+│ └── BookManager.java
 ├── books.csv
 └── Main.java
-
-<details> <summary>📂 Expand Full Structure</summary>
-
-model/
-├── LibraryItemADT.java
-├── Book.java
-└── BorrowRecord.java
-
-datastructures/
-├── BSTNode.java
-├── BST.java
-├── Stack.java
-├── CartNode.java
-└── CartList.java
-
-undo/
-└── UndoStack.java
-
-managers/
-├── InventoryManager.java
-├── BorrowingHistoryManager.java
-└── BookManager.java
-
-</details>```
-
 ```
+---
+
 ## ⚙️ Data Structures Breakdown
 
 | Structure            | Purpose        | Complexity        |
