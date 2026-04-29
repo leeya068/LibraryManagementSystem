@@ -55,7 +55,9 @@ LibraryManagementSystem/
 ├── undo/
 ├── books.csv
 └── Main.java
+
 <details> <summary>📂 Expand Full Structure</summary>
+
 model/
 ├── LibraryItemADT.java
 ├── Book.java
@@ -75,8 +77,9 @@ managers/
 ├── InventoryManager.java
 ├── BorrowingHistoryManager.java
 └── BookManager.java
-</details>
-```
+
+</details>```
+
 
 ## ⚙️ Data Structures Breakdown
 
